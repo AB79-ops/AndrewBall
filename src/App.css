@@ -4,25 +4,25 @@
 }
 
 .nav{
-  background: papayawhip;
   color: whitesmoke;
   font-family: "Heiti SC", sans-serif;
-  text-shadow: 0 2px 5px rgba(0,0,0,.5);
+  text-shadow: 0 2px 5px rgba(0,0,0,1);
+  box-shadow: 0 0 15px black;
 }
 
 .App-header {
   background-color: #282c34;
-  min-height: 200px;
+  min-height: 300px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: ghostwhite;
   z-index: 100;
   font-family: "Heiti SC", sans-serif;
-  box-shadow: 0 2px 5px black;
   text-transform: uppercase;
+  text-shadow: 0 5px 3px black;
 }
 
 
