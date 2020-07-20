@@ -9,9 +9,9 @@ class Projects extends React.Component {
                 <a href={this.props.project.href}>
                 <img width="90%"  src={this.props.project.url} alt={this.props.project.alt}/>
                 </a>
-                <br/><br/>
+                <br/>
                 <h5 className="projectsDescription">{this.props.project.description}</h5>
-                <br/><br/>
+                <br/>
             </div>
         );
     }

@@ -1,13 +1,10 @@
 import React from 'react';
 import './App.css';
 import Footer from "./Components/footer";
-import MyInfo from "./Components/MyInfo";
 import Header from "./Components/Header";
 import Nav from "./Components/Nav";
 import MainContent from "./Components/MainContent";
-import Products from "./Components/Products";
 import Projects from "./Components/Projects";
-import artProducts from "./data/artProducts";
 import ProjectsData from "./data/ProjectsData";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -68,7 +65,7 @@ class App extends React.Component {
 
     render() {
         const projectComponents = ProjectsData.map(item => <Projects key={item.id} item={item} project={item}/>);
-        const productsComponents = artProducts.map(item => <Products key={item.id} product={item}/>);
+        // const productsComponents = artProducts.map(item => <Products key={item.id} product={item}/>);
         // const text = this.state.isLoading ? "Loading..." : this.state.character.name;
         // let buttonText = this.state.isLoggedIn ? "Log Out" : "Log In";
         // const toDoItems = this.state.todos.map(item => <ToDoItem key={item.id} item={item} handleChange={this.handleChange}/>);
@@ -88,6 +85,10 @@ class App extends React.Component {
                 {/*<div className="jokes-list">*/}
                 {/*    <h3>{jokeComponents}</h3>*/}
                 {/*</div>*/}
+                <br/>
+                <br/>
+                <br/>
+                <h1 className="pro-pro">PROJECTS</h1>
                 <div className="products-list">
                     {projectComponents}
                 </div>

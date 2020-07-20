@@ -1,11 +1,11 @@
 import React from "react";
-import Headshot from "../images/Headshot-wide.jpeg"
+import Headshot from "../images/Headshot-cropped.jpeg"
 
 class MainContent extends React.Component{
     render() {
         return(
         <div className="mainContent">
-            <img style={{height: "400px", position:"relative", left: "400px"}} src={Headshot} alt="Headshot"/>
+            <img className="blurred-edge" style={{height: "400px", position:"relative"}} src={Headshot} alt="Headshot"/>
         </div>
         )
     }
