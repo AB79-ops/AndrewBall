@@ -10,8 +10,9 @@
   box-shadow: 0 0 15px black;
 }
 
-.App-header {
-  background-color: #282c34;
+
+
+.projects, .App-header{
   min-height: 300px;
   display: flex;
   flex-direction: column;
@@ -26,14 +27,8 @@
 }
 
 .projects{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  color: ghostwhite;
-  font-family: "Heiti SC", sans-serif;
-  text-transform: uppercase;
-  text-shadow: 0 5px 3px black;
+  box-shadow: 0 4px 4px black;
+  border-bottom: 1px solid mediumseagreen;
 }
 
 @keyframes App-logo-spin {
@@ -54,7 +49,7 @@
 .blurred-edge{
   border-radius: 5px 0 0 5px;
   box-shadow:
-          -10px 0 5px -6px lightgrey,
+          -10px 0 10px -6px lightgrey,
           10px 0 2px -1px black,
           20px 0 0 -2px rgba(131, 158,172,.8),
           30px 0 2px -3px black ;
@@ -80,14 +75,14 @@
 }
 .pro-pro {
   font-family: "Heiti SC", sans-serif;
-  font-size: 40px;
+  font-size: 50px;
   padding: 5px;
   color: whitesmoke;
-  border-bottom: 1px solid mediumseagreen;
   text-align: center;
+  text-shadow: 0 5px 3px black;
 }
 .project-header{
-  font-size: 50px;
+  font-size: 40px;
 }
 
 .projectsDescription{
@@ -103,6 +98,7 @@
   height: 200px;
   width: 100%;
   text-align: left;
+  text-shadow: 0 5px 3px black;
 }
 
 
