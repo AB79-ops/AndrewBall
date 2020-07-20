@@ -1,38 +1,32 @@
 {
   "files": {
-    "main.css": "/AndrewBall/static/css/main.64f222bf.chunk.css",
-    "main.js": "/AndrewBall/static/js/main.850a630a.chunk.js",
-    "main.js.map": "/AndrewBall/static/js/main.850a630a.chunk.js.map",
+    "main.css": "/AndrewBall/static/css/main.0c11a0ce.chunk.css",
+    "main.js": "/AndrewBall/static/js/main.a412da68.chunk.js",
+    "main.js.map": "/AndrewBall/static/js/main.a412da68.chunk.js.map",
     "runtime-main.js": "/AndrewBall/static/js/runtime-main.c208e679.js",
     "runtime-main.js.map": "/AndrewBall/static/js/runtime-main.c208e679.js.map",
     "static/css/2.af3c1da9.chunk.css": "/AndrewBall/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c12ba3ac.chunk.js": "/AndrewBall/static/js/2.c12ba3ac.chunk.js",
-    "static/js/2.c12ba3ac.chunk.js.map": "/AndrewBall/static/js/2.c12ba3ac.chunk.js.map",
+    "static/js/2.6caf41cc.chunk.js": "/AndrewBall/static/js/2.6caf41cc.chunk.js",
+    "static/js/2.6caf41cc.chunk.js.map": "/AndrewBall/static/js/2.6caf41cc.chunk.js.map",
     "index.html": "/AndrewBall/index.html",
-    "precache-manifest.0996a9dbc786cf83e49c1c800b1b3b6e.js": "/AndrewBall/precache-manifest.0996a9dbc786cf83e49c1c800b1b3b6e.js",
+    "precache-manifest.9746fe4338f1a92f6aa3e10cb1a2b5eb.js": "/AndrewBall/precache-manifest.9746fe4338f1a92f6aa3e10cb1a2b5eb.js",
     "service-worker.js": "/AndrewBall/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/AndrewBall/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.64f222bf.chunk.css.map": "/AndrewBall/static/css/main.64f222bf.chunk.css.map",
-    "static/js/2.c12ba3ac.chunk.js.LICENSE.txt": "/AndrewBall/static/js/2.c12ba3ac.chunk.js.LICENSE.txt",
+    "static/css/main.0c11a0ce.chunk.css.map": "/AndrewBall/static/css/main.0c11a0ce.chunk.css.map",
+    "static/js/2.6caf41cc.chunk.js.LICENSE.txt": "/AndrewBall/static/js/2.6caf41cc.chunk.js.LICENSE.txt",
     "static/media/DiceRoller.png": "/AndrewBall/static/media/DiceRoller.a4542f79.png",
     "static/media/Gardenseedr.png": "/AndrewBall/static/media/Gardenseedr.76ac9e42.png",
     "static/media/Gradient.png": "/AndrewBall/static/media/Gradient.d306d55c.png",
-    "static/media/IMG-6331.JPG": "/AndrewBall/static/media/IMG-6331.2774b33f.JPG",
-    "static/media/IMG_6032.jpeg": "/AndrewBall/static/media/IMG_6032.f1938d5f.jpeg",
+    "static/media/Headshot-cropped.jpeg": "/AndrewBall/static/media/Headshot-cropped.e14419ff.jpeg",
     "static/media/LaserLinks.png": "/AndrewBall/static/media/LaserLinks.cfad92b0.png",
     "static/media/MrLewis.png": "/AndrewBall/static/media/MrLewis.c91525af.png",
-    "static/media/WatercolorSkull.jpg": "/AndrewBall/static/media/WatercolorSkull.be64cedb.jpg",
-    "static/media/WeatherMap.png": "/AndrewBall/static/media/WeatherMap.9127a965.png",
-    "static/media/bobbys-party.png": "/AndrewBall/static/media/bobbys-party.0e4018f6.png",
-    "static/media/red-bats.jpeg": "/AndrewBall/static/media/red-bats.5d573cac.jpeg",
-    "static/media/skull-stamp.JPG": "/AndrewBall/static/media/skull-stamp.18e932ca.JPG",
-    "static/media/space-walk.JPG": "/AndrewBall/static/media/space-walk.e04564db.JPG"
+    "static/media/WeatherMap.png": "/AndrewBall/static/media/WeatherMap.9127a965.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c208e679.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c12ba3ac.chunk.js",
-    "static/css/main.64f222bf.chunk.css",
-    "static/js/main.850a630a.chunk.js"
+    "static/js/2.6caf41cc.chunk.js",
+    "static/css/main.0c11a0ce.chunk.css",
+    "static/js/main.a412da68.chunk.js"
   ]
 }
