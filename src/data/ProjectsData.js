@@ -17,11 +17,11 @@ const ProjectsData = [
     },
     {
         id: 3,
-        title:"Gardenseedr",
-        description: "GardenSeedr is a desktop gardening assistant developed during the coronavirus outbreak as an aid to new gardeners with planting ideas and placement. Two separate API calls, OpenWeather API and OpenFarm API were used for weather updates and crop information respectively. A virtual garden grid is used for crop placement.",
-        url: require("../images/Gardenseedr.png"),
-        alt: "Gardenseedr",
-        href: "https://gardenseedr.com"
+        title:"Gradient Mind",
+        description: "Gradient Mind is an experiment with pure CSS and HTML showcasing some interesting animation, layout and design.",
+        url: require("../images/Gradient.png"),
+        alt: "Gradient Mind",
+        href: "https://andrewball79.github.io/laserLinks/gradientLife"
     },
     {
         id: 4,
@@ -33,19 +33,19 @@ const ProjectsData = [
     },
     {
         id: 5,
+        title:"Gardenseedr",
+        description: "GardenSeedr is a desktop gardening assistant developed during the coronavirus outbreak as an aid to new gardeners with planting ideas and placement. Two separate API calls, OpenWeather API and OpenFarm API were used for weather updates and crop information respectively. A virtual garden grid is used for crop placement.",
+        url: require("../images/Gardenseedr.png"),
+        alt: "Gardenseedr",
+        href: "https://gardenseedr.com"
+    },
+    {
+        id: 6,
         title:"Dice Roller",
         description: "This is a page layout exhibiting clean, bright design principles using HTML, CSS, JavaScript, and Jquery. There are multiple die choices and a selectable number of rolls. It is meant to be used as a supplemental to any tabletop games where dice are used.",
         url: require("../images/DiceRoller.png"),
         alt: "Bobby's Party",
         href: "https://andrewball79.github.io/laserLinks/DiceRoller"
-    },
-    {
-        id: 6,
-        title:"Gradient Mind",
-        description: "Gradient Mind is an experiment with pure CSS and HTML showcasing some interesting animation, layout and design.",
-        url: require("../images/Gradient.png"),
-        alt: "Gradient Mind",
-        href: "https://andrewball79.github.io/laserLinks/gradientLife"
     }
 ];
 

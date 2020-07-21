@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c74460c-bc65-48e8-b538-53ba620a64e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/ProjectsData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/ProjectsData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +57,14 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/data" />
       <recent name="$PROJECT_DIR$/src/Components" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -106,7 +107,8 @@
       <workItem from="1594399728877" duration="26531000" />
       <workItem from="1594657310203" duration="36292000" />
       <workItem from="1594919218896" duration="18538000" />
-      <workItem from="1595192080240" duration="11719000" />
+      <workItem from="1595192080240" duration="12049000" />
+      <workItem from="1595357119730" duration="614000" />
     </task>
     <servers />
   </component>
@@ -121,26 +123,26 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="182" y="402" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1920.1057@0.23.1920.1057" timestamp="1594763624987" />
-    <state width="971" height="290" key="GridCell.Tab.0.bottom" timestamp="1595286114054">
+    <state width="971" height="290" key="GridCell.Tab.0.bottom" timestamp="1595306727110">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="971" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1595286114054" />
-    <state width="971" height="290" key="GridCell.Tab.0.center" timestamp="1595286114053">
+    <state width="971" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1595306727110" />
+    <state width="971" height="290" key="GridCell.Tab.0.center" timestamp="1595306727109">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="971" height="290" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1595286114053" />
-    <state width="971" height="290" key="GridCell.Tab.0.left" timestamp="1595286114052">
+    <state width="971" height="290" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1595306727109" />
+    <state width="971" height="290" key="GridCell.Tab.0.left" timestamp="1595306727108">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="971" height="290" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1595286114052" />
-    <state width="971" height="290" key="GridCell.Tab.0.right" timestamp="1595286114053">
+    <state width="971" height="290" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1595306727108" />
+    <state width="971" height="290" key="GridCell.Tab.0.right" timestamp="1595306727109">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="971" height="290" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1595286114053" />
-    <state x="157" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1595194640086">
+    <state width="971" height="290" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1595306727109" />
+    <state x="157" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1595357136938">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="157" y="372" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1595194640086" />
+    <state x="157" y="372" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1595357136938" />
     <state x="112" y="266" key="new project wizard" timestamp="1594498584134">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
