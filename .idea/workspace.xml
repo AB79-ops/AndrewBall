@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c74460c-bc65-48e8-b538-53ba620a64e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/Navigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/ContactCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/ContactCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/MainContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MainContent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Nav.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/artProducts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/footer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +112,7 @@
       <workItem from="1595357119730" duration="4221000" />
       <workItem from="1595380149623" duration="4174000" />
       <workItem from="1595392981560" duration="1000" />
-      <workItem from="1595516894411" duration="1717000" />
+      <workItem from="1595516894411" duration="5239000" />
     </task>
     <servers />
   </component>
@@ -131,22 +127,22 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="182" y="402" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1920.1057@0.23.1920.1057" timestamp="1594763624987" />
-    <state width="971" height="290" key="GridCell.Tab.0.bottom" timestamp="1595359715365">
+    <state width="1073" height="291" key="GridCell.Tab.0.bottom" timestamp="1595518800633">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="971" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1595359715365" />
-    <state width="971" height="290" key="GridCell.Tab.0.center" timestamp="1595359715362">
+    <state width="1073" height="291" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1595518800633" />
+    <state width="1073" height="291" key="GridCell.Tab.0.center" timestamp="1595518800632">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="971" height="290" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1595359715362" />
-    <state width="971" height="290" key="GridCell.Tab.0.left" timestamp="1595359715361">
+    <state width="1073" height="291" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1595518800632" />
+    <state width="1073" height="291" key="GridCell.Tab.0.left" timestamp="1595518800631">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="971" height="290" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1595359715361" />
-    <state width="971" height="290" key="GridCell.Tab.0.right" timestamp="1595359715363">
+    <state width="1073" height="291" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1595518800631" />
+    <state width="1073" height="291" key="GridCell.Tab.0.right" timestamp="1595518800632">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="971" height="290" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1595359715363" />
+    <state width="1073" height="291" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1595518800632" />
     <state x="157" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1595357136938">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
