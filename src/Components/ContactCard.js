@@ -10,7 +10,6 @@ class ContactCard extends React.Component {
                 <h3>{this.props.name}</h3>
                 <img src={this.props} alt=""/>
                 <p>{this.props.description}</p>
-                <p>Price: {this.props.price}</p>
             </div>
     )
 

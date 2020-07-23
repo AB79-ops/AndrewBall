@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Footer from "./Components/footer";
 import Header from "./Components/Header";
-import Nav from "./Components/Nav";
+import Navigation from "./Components/Navigation";
 import MainContent from "./Components/MainContent";
 import Projects from "./Components/Projects";
 import ProjectsData from "./data/ProjectsData";
@@ -74,7 +74,7 @@ class App extends React.Component {
 
         return (
             <div className="App">
-                <Nav/>
+                <Navigation/>
                 <Header/>
                 <MainContent/>
                 {/*{!this.state.isLoggedIn ? <h1>Not Logged In</h1> : <Conditional/>}*/}
