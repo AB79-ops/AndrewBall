@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c74460c-bc65-48e8-b538-53ba620a64e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Hooks/useScrollPosition.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/MainContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MainContent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/bobbys-party.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/skull-stamp.JPG" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +18,23 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="new-reactor" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,7 +130,18 @@
       <workItem from="1595357119730" duration="4221000" />
       <workItem from="1595380149623" duration="4174000" />
       <workItem from="1595392981560" duration="1000" />
-      <workItem from="1595516894411" duration="6669000" />
+      <workItem from="1595516894411" duration="6889000" />
+      <workItem from="1595534691512" duration="380000" />
+      <workItem from="1595987601654" duration="1520000" />
+      <workItem from="1597109931763" duration="3221000" />
+      <workItem from="1597609738571" duration="925000" />
+      <workItem from="1597863166432" duration="558000" />
+      <workItem from="1597944195234" duration="173000" />
+      <workItem from="1599237810469" duration="662000" />
+      <workItem from="1599239069004" duration="6341000" />
+      <workItem from="1599604472617" duration="805000" />
+      <workItem from="1603570150410" duration="3333000" />
+      <workItem from="1603655706276" duration="640000" />
     </task>
     <servers />
   </component>
@@ -120,37 +152,29 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="182" y="402" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1594763624987">
+    <state width="748" height="153" key="GridCell.Tab.0.bottom" timestamp="1599313614409">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="182" y="402" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1920.1057@0.23.1920.1057" timestamp="1594763624987" />
-    <state width="779" height="160" key="GridCell.Tab.0.bottom" timestamp="1595522594791">
+    <state width="748" height="153" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1599313614409" />
+    <state width="748" height="153" key="GridCell.Tab.0.center" timestamp="1599313614408">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="779" height="160" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1595522594791" />
-    <state width="779" height="160" key="GridCell.Tab.0.center" timestamp="1595522594790">
+    <state width="748" height="153" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1599313614408" />
+    <state width="748" height="153" key="GridCell.Tab.0.left" timestamp="1599313614407">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="779" height="160" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1595522594790" />
-    <state width="779" height="160" key="GridCell.Tab.0.left" timestamp="1595522594789">
+    <state width="748" height="153" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1599313614407" />
+    <state width="748" height="153" key="GridCell.Tab.0.right" timestamp="1599313614408">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="779" height="160" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1595522594789" />
-    <state width="779" height="160" key="GridCell.Tab.0.right" timestamp="1595522594790">
+    <state width="748" height="153" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1599313614408" />
+    <state x="157" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1603671656073">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="779" height="160" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1595522594790" />
-    <state x="157" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1595357136938">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="157" y="372" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1595357136938" />
+    <state x="157" y="371" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1603671656072" />
     <state x="112" y="266" key="new project wizard" timestamp="1595362697340">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="112" y="266" key="new project wizard/0.23.1920.1057@0.23.1920.1057" timestamp="1595362697340" />
-    <state x="103" y="252" width="670" height="676" key="search.everywhere.popup" timestamp="1594751758294">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="103" y="252" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1594751758294" />
   </component>
 </project>

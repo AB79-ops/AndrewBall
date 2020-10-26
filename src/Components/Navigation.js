@@ -47,6 +47,8 @@ class Navigation extends React.Component {
 
 
 
+
+
     render() {
         return (
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark"
@@ -54,8 +56,7 @@ class Navigation extends React.Component {
                 <Navbar.Toggle/>
                 <Navbar.Collapse>
                     <a className="navbar-brand" href="#">Top Of Page</a>
-                    <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                    </div>
+                    <div className="collapse navbar-collapse" id="navbarSupportedContent"/>
                     <Nav className="mr-auto d-block">
                         <Nav.Item className="navbar-nav mr-auto">
                             <Nav.Link className="nav-item active">
@@ -70,5 +71,7 @@ class Navigation extends React.Component {
         )
     }
 }
+
+
 
 export default Navigation;
