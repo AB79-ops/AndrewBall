@@ -17,7 +17,7 @@ const ProjectsData = [
     },
     {
         id: 3,
-        title:"Gradient Mind",
+        title:"Gradient Life",
         description: "Gradient Mind is an experiment with pure CSS and HTML showcasing some interesting animation, layout and design.",
         url: require("../images/Gradient.png"),
         alt: "Gradient Mind",

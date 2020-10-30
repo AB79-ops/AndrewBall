@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c74460c-bc65-48e8-b538-53ba620a64e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hooks/useScrollPosition.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/bobbys-party.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/skull-stamp.JPG" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +136,9 @@
       <workItem from="1599239069004" duration="6341000" />
       <workItem from="1599604472617" duration="805000" />
       <workItem from="1603570150410" duration="3333000" />
-      <workItem from="1603655706276" duration="640000" />
+      <workItem from="1603655706276" duration="672000" />
+      <workItem from="1603837888839" duration="2483000" />
+      <workItem from="1603923798549" duration="567000" />
     </task>
     <servers />
   </component>
