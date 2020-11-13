@@ -59,9 +59,9 @@ class Navigation extends React.Component {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent"/>
                     <Nav className="mr-auto d-block">
                         <Nav.Item className="navbar-nav mr-auto">
-                            <Nav.Link className="nav-item active">
-                                <h1 style={styles}>{this.state.hours + ":" + this.state.minutes + " " + AmPm}</h1>
-                            </Nav.Link>
+                            {/*<Nav.Link className="nav-item active">*/}
+                            {/*    <h1 style={styles}>{this.state.hours + ":" + this.state.minutes + " " + AmPm}</h1>*/}
+                            {/*</Nav.Link>*/}
                         </Nav.Item>
                     </Nav>
                 </Navbar.Collapse>

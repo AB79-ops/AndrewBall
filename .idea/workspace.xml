@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c74460c-bc65-48e8-b538-53ba620a64e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/align.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Navigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/ProjectsData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/ProjectsData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,14 +74,14 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/data" />
       <recent name="$PROJECT_DIR$/src/Components" />
       <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/images" />
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
@@ -142,7 +144,10 @@
       <workItem from="1603923798549" duration="723000" />
       <workItem from="1604200334341" duration="2191000" />
       <workItem from="1604712885655" duration="211000" />
-      <workItem from="1604939269409" duration="840000" />
+      <workItem from="1604939269409" duration="1443000" />
+      <workItem from="1604971869795" duration="390000" />
+      <workItem from="1605141027336" duration="441000" />
+      <workItem from="1605234904207" duration="1404000" />
     </task>
     <servers />
   </component>
@@ -153,25 +158,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="748" height="148" key="GridCell.Tab.0.bottom" timestamp="1604276920686">
+    <state width="748" height="148" key="GridCell.Tab.0.bottom" timestamp="1605236404642">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="748" height="148" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1604276920686" />
-    <state width="748" height="148" key="GridCell.Tab.0.center" timestamp="1604276920685">
+    <state width="748" height="148" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1605236404642" />
+    <state width="748" height="148" key="GridCell.Tab.0.center" timestamp="1605236404640">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="748" height="148" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1604276920685" />
-    <state width="748" height="148" key="GridCell.Tab.0.left" timestamp="1604276920683">
+    <state width="748" height="148" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1605236404640" />
+    <state width="748" height="148" key="GridCell.Tab.0.left" timestamp="1605236404639">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="748" height="148" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1604276920683" />
-    <state width="748" height="148" key="GridCell.Tab.0.right" timestamp="1604276920685">
+    <state width="748" height="148" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1605236404639" />
+    <state width="748" height="148" key="GridCell.Tab.0.right" timestamp="1605236404641">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="748" height="148" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1604276920685" />
-    <state x="157" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1604273861093">
+    <state width="748" height="148" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1605236404641" />
+    <state x="157" y="371" key="com.intellij.ide.util.TipDialog" timestamp="1605234966448">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="157" y="371" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1604273861093" />
+    <state x="157" y="371" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1605234966448" />
   </component>
 </project>

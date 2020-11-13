@@ -8,9 +8,17 @@ const ProjectsData = [
         href: "https://andrewball79.github.io/laserLinks"
     },
     {
+        id: 7,
+        title:"Align",
+        description: "Built using javaScript canvas, an API call, and CSS. A soothing design scheme and inspirational quotes are made to enhance your mood and Align your day",
+        url: require("../images/align.png"),
+        alt: "Align",
+        href: "https://andrewball79.github.io/laserLinks/Align"
+    },
+    {
         id: 2,
         title:"Mr. Lewis And The Funeral 5",
-        description: "Bootstrap, HTML, CSS, JQuery, and a Spotify player are tucked behind animated tabs on this band page.",
+        description: " Built with Bootstrap, HTML, CSS, and JQuery. Images, descriptions, videos, and a Spotify player are tucked behind animated tabs on this band page.",
         url: require("../images/MrLewis.png"),
         alt: "Mr. Lewis",
         href: "https://andrewball79.github.io/laserLinks/mrLewis"
@@ -47,14 +55,7 @@ const ProjectsData = [
         alt: "Dice Roller",
         href: "https://andrewball79.github.io/laserLinks/DiceRoller"
     },
-    {
-        id: 7,
-        title:"Align",
-        description: "Built using javaScript canvas, an API call, and CSS. A soothing design scheme and inspirational quotes are made to enhance your mood and Align your day",
-        url: require("../images/DiceRoller.png"),
-        alt: "Align",
-        href: "https://andrewball79.github.io/laserLinks/Align"
-    }
+
 ];
 
 export default ProjectsData
