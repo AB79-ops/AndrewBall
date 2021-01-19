@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83d0ec9ab32da85337fc8980a28d380a",
+    "revision": "a752700e8e528401c60c98ce5dc8f457",
     "url": "/AndrewBall/index.html"
   },
   {
-    "revision": "e71048fa4642d8d1d45a",
+    "revision": "25b8278fa122a9b7237d",
     "url": "/AndrewBall/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "a6410b4bca91984034b5",
-    "url": "/AndrewBall/static/css/main.3e8a9d58.chunk.css"
+    "revision": "64268af4c24f35169fe6",
+    "url": "/AndrewBall/static/css/main.f8e2ddab.chunk.css"
   },
   {
-    "revision": "e71048fa4642d8d1d45a",
-    "url": "/AndrewBall/static/js/2.0366a3c4.chunk.js"
+    "revision": "25b8278fa122a9b7237d",
+    "url": "/AndrewBall/static/js/2.c0eef60b.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/AndrewBall/static/js/2.0366a3c4.chunk.js.LICENSE.txt"
+    "url": "/AndrewBall/static/js/2.c0eef60b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6410b4bca91984034b5",
-    "url": "/AndrewBall/static/js/main.b5730ff0.chunk.js"
+    "revision": "64268af4c24f35169fe6",
+    "url": "/AndrewBall/static/js/main.0af9a09f.chunk.js"
   },
   {
     "revision": "7e0867de9ea974a88c90",
     "url": "/AndrewBall/static/js/runtime-main.c208e679.js"
-  },
-  {
-    "revision": "a4542f7941669bd08910882f922d3dc0",
-    "url": "/AndrewBall/static/media/DiceRoller.a4542f79.png"
   },
   {
     "revision": "76ac9e42d736b246287a0db21f2f39ed",
