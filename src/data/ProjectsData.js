@@ -13,7 +13,7 @@ const ProjectsData = [
         description: "Built using javaScript canvas, an API call, and CSS. A soothing design scheme and inspirational quotes are made to enhance your mood and Align your day",
         url: require("../images/align.png"),
         alt: "Align",
-        href: "https://andrewball79.github.io/laserLinks/Align"
+        href: "https://andrewball79.github.io/laserLinks/align"
     },
     {
         id: 2,
@@ -47,14 +47,14 @@ const ProjectsData = [
         alt: "Gardenseedr",
         href: "https://gardenseedr.com"
     },
-    {
+/*    {
         id: 6,
-        title:"Dice Roller",
+        title: "Dice Roller",
         description: "This is a page layout exhibiting clean, bright design principles using HTML, CSS, JavaScript, and Jquery. There are multiple die choices and a selectable number of rolls. It is meant to be used as a supplemental to any tabletop games where dice are used.",
         url: require("../images/DiceRoller.png"),
         alt: "Dice Roller",
         href: "https://andrewball79.github.io/laserLinks/DiceRoller"
-    },
+    },*/
 
 ];
 

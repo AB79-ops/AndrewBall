@@ -86,11 +86,13 @@
 }
 .project-header{
   font-size: 40px;
+  margin-top: 40px;
 }
 
 .projectsDescription{
   width: 75%;
   display: inline-block;
+  margin: 40px 0 40px 0;
 }
 
 .footer{
