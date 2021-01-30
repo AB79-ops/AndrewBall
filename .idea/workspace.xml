@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c74460c-bc65-48e8-b538-53ba620a64e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/artImages/Another Face On Mars.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/Diamond Eyes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/Finding You.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/Grinn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/IMG_6032.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/Inner Space Traveller.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/Joker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/Lenticular Mind.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/Lonesome.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/Path Of Destruction.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/Space Orc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/Stop Monster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/The Face.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/True American Dreamers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/WatercolorSkull.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/bobbys-party.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/red-bats.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/skull-stamp (1).JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artImages/space-walk.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/artProjectsData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/MainContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/MainContent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/ProjectsData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/ProjectsData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +78,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/artImages" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,6 +92,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/artImages" />
       <recent name="$PROJECT_DIR$/src/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -87,6 +103,17 @@
     </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -151,12 +178,26 @@
       <workItem from="1604971869795" duration="390000" />
       <workItem from="1605141027336" duration="441000" />
       <workItem from="1605234904207" duration="1903000" />
-      <workItem from="1611085517783" duration="1058000" />
+      <workItem from="1611085517783" duration="3152000" />
+      <workItem from="1611248472136" duration="112000" />
+      <workItem from="1611972861181" duration="1122000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
