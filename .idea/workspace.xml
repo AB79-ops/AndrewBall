@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c74460c-bc65-48e8-b538-53ba620a64e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/artImages/Another Face On Mars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/Diamond Eyes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/Finding You.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/Grinn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/IMG_6032.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/Inner Space Traveller.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/Joker.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/Lenticular Mind.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/Lonesome.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/Path Of Destruction.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/Space Orc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/Stop Monster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/The Face.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/True American Dreamers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/WatercolorSkull.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/bobbys-party.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/red-bats.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/skull-stamp (1).JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artImages/space-walk.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/artProjectsData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/artProjectsData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/artProjectsData.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +161,7 @@
       <workItem from="1605234904207" duration="1903000" />
       <workItem from="1611085517783" duration="3152000" />
       <workItem from="1611248472136" duration="112000" />
-      <workItem from="1611972861181" duration="1122000" />
+      <workItem from="1611972861181" duration="2276000" />
     </task>
     <servers />
   </component>
